@@ -1,0 +1,8 @@
+numpy
+transformers
+datasets
+extended_watermark_processor
+matplotlib
+pandas
+seaborn
+torch
